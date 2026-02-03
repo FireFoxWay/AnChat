@@ -1,2 +1,2 @@
 # AnChat
-An ananymous chat site 
+An anonymous chat site 
